@@ -14,4 +14,4 @@ http://localhost:3000/decorator/Main.php
 
 
 
-![decorator.png](img.png)
+![decorator](images/decorator.png)
