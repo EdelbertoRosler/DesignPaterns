@@ -1,4 +1,4 @@
-# DesignPaterns - Decorator
+# DesignPaterns - Factory Method
 
 ## O arquivo Main.php é o arquivo de teste 
 ### Para testar voçê pode usar o docker para subir um servidor utilizando o seguinte comando dentro da pasta Design Patterns:
