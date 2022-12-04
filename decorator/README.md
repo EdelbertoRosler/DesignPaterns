@@ -13,10 +13,7 @@
 http://localhost:3000/decorator/Main.php
 
 
-
-
 ![decorator](images/decorator.png)
 
 
-
-Implementação baseada no seguinte reposiorio: https://github.com/DesignPatternsPHP/DesignPatternsPHP/tree/main/Structural/Decorator
+Implementação baseada no seguinte reposiorio: https://github.com/DesignPatternsPHP/DesignPatternsPHP

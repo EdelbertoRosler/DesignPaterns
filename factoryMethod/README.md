@@ -13,10 +13,7 @@
 http://localhost:3000/factoryMethod/Main.php
 
 
+![factory method](images/factoryMethod.png)
 
 
-![decorator](images/factoryMethod.png)
-
-
-
-Implementação baseada no seguinte reposiorio: https://github.com/DesignPatternsPHP/DesignPatternsPHP/tree/main/Creational/FactoryMethod
+Implementação baseada no seguinte reposiorio: https://github.com/DesignPatternsPHP/DesignPatternsPHP
