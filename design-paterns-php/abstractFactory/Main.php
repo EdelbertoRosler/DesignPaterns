@@ -1,5 +1,9 @@
 <?php
+require_once "../../html/header.php";
+require_once "../../html/buttons.php";
+?>
 
+<?php
 // vamos criar uma variável para especificar qual tipo de venda
 $tipo_de_venda = 'servico';
 
@@ -26,3 +30,4 @@ $imposto = $fabrica->buscarImposto();
 var_dump($venda); echo "<hr>";
 var_dump($imposto);
 
+require_once "../../html/footer.php";

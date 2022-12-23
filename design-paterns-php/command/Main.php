@@ -1,7 +1,9 @@
 <?php
-
 declare(strict_types=1);
 namespace designPatterns\command;
+
+require_once "../../html/header.php";
+require_once "../../html/buttons.php";
 require 'Receptor.php';
 require 'Invocador.php';
 require 'OlaCommand.php';
