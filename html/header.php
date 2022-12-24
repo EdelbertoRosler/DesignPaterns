@@ -9,7 +9,7 @@
         .button {
             border: none;
             color: white;
-            padding: 8px 8px;
+            padding: 5px 6px;
             text-align: center;
             text-decoration: none;
             display: inline-block;
