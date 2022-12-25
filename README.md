@@ -11,6 +11,8 @@
 
 ### http://localhost:3000/
 
+![command](images/imageteste.png)
+
 
 
 Alguns designs são baseados no seguinte reposiorio: https://github.com/DesignPatternsPHP/DesignPatternsPHP
